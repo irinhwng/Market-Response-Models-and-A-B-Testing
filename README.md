@@ -59,6 +59,7 @@ The following tasks were executed:
     - Tables and graphs
 3. Model the data using XGBoost Classifier
     - Here are the results 
+    
     |True Discount Promo Uptick|Predicted Discount Promo Uptick|
     |---|---|
     |907|937|
